@@ -1771,15 +1771,6 @@ body {
   display: none;
   transition: opacity .3s;
 }
-.cid-rzrJtfNvvr .card-wrapper .card-img .mbr-section-btn {
-  position: absolute;
-  transition: opacity .3s;
-  width: 100%;
-  left: 0;
-  top: 50%;
-  height: auto;
-  transform: translateY(-50%);
-}
 .cid-rzrJtfNvvr .card-wrapper .card-img img {
   width: 100%;
 }
@@ -1805,14 +1796,8 @@ body {
   display: block !important;
   opacity: 0;
 }
-.cid-rzrJtfNvvr .card-img .mbr-section-btn {
-  opacity: 0;
-}
 .cid-rzrJtfNvvr .card-img:hover .mbr-overlay {
   opacity: .5;
-}
-.cid-rzrJtfNvvr .card-img:hover .mbr-section-btn {
-  opacity: 1;
 }
 .cid-rzrJtfNvvr .mbr-text {
   text-align: left;
