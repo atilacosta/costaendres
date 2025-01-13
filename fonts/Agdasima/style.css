@@ -1,0 +1,14 @@
+@font-face {
+   font-family: 'Agdasima';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/atilac/personal/costaendres/fonts/Agdasima/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Agdasima';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/atilac/personal/costaendres/fonts/Agdasima/regular.ttf') format('truetype');
+}
